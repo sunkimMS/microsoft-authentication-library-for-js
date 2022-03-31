@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 07 Mar 2022 23:28:43 GMT and should not be manually modified.
+This log was last generated on Thu, 31 Mar 2022 18:11:13 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.23.0
+
+Thu, 31 Mar 2022 18:11:13 GMT
+
+### Minor changes
+
+- Add Client Application telemetry parameters to MSAL #4616 (prithviraj.kanherkar@microsoft.com)
+- Bump @azure/msal-common to v6.2.0
 
 ## 2.22.1
 
